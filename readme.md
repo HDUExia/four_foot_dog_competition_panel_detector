@@ -1,6 +1,6 @@
 ## 本Repo的用处
 本Repo用于云深处的四足机器人比赛的仪表盘识别部分
-本Repo修改自[yolov7](git@github.com:WongKinYiu/yolov7.git)与云深处[开源demo](git@github.com:OpenCVChina/DeepRobotDog.git)
+本Repo修改自[yolov7](https://github.com/WongKinYiu/yolov7.git)与云深处[开源demo](https://github.com/OpenCVChina/DeepRobotDog.git)
 
 CNN数据集取自自己队伍内拍摄与标注的数据集(这里就不放了)
 
