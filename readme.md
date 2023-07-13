@@ -56,7 +56,7 @@ pip install -r requirement.txt
 #因为requirement.txt有很多不需要的东西，建议建个虚拟环境，到时候好删(python水平差，不知道删什么)
 ``````
 
-核心推理部分为`detect.py`
+核心推理部分为`my_detect.py`
 
 ## 写在后面
 
